@@ -55,19 +55,19 @@ nav .promo img{width:180px; }
 
 /* contents */
 #contents {position:relative; width:100%; padding-top:10%; transition:all 1s; overflow-x: hidden;}
-#contents h2 {position: relative; width:1260px; left:420px; top:-10%; opacity:0;}
+#contents h2 {position: relative; width:1260px; left:22%; top:-10%; opacity:0;}
 
 
 /* contents .mainsub */
-#contents .mainsub{position:relative; width:1260px; margin-left:420px; margin-top:50px; opacity:0;}
+#contents .mainsub{position:relative; width:1260px; margin-left:20%; margin-top:50px; opacity:0;}
 #contents .mainsub:after {content:""; width:100%; height:100%; background:rgba(0,0,0,0.3); position:absolute; left:0; top:0; opacity:1;}
 
 
 /* contents .allsub */
-#contents .allsub {position:relative; margin-left:350px; margin-top:50px; }
+#contents .allsub {position:relative; margin-left:18%; margin-top:50px; }
 
 article { position:relative; vertical-align: top; margin-bottom:50px; opacity:0;}
-article section {position:relative; display:inline-block; width:400px; height:460px;  padding:50px 20px 20px; z-index: 10; vertical-align: center; margin-right:50px; }
+article section {position:relative; display:inline-block; width:400px; height:460px;  padding:50px 20px 20px; z-index: 10; vertical-align: center; margin-right:10px; }
 article section h3 {font-size:1.7rem; text-align:center; color:rgba(56,140,4,1); margin:15px 0;}
 article section img { transition:all 1s;}
 article section p { text-align: justify; margin:15px 0 0;}
