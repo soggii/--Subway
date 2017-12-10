@@ -1,0 +1,88 @@
+color palette
+
+red /  rgb(202,3,0)
+orange / rgb(225,101,25)
+yellowgreen / rgb(202,206,23)
+lightgreen / rgb(56,140,4)
+green / rgb(4,115,49) / rgb(76,146,44) #4c922c
+darkgreen / rgb(28,98,0) #1c6200
+
+With a mixture of fresh ingredients, a whole lot of customer service, and a dash of innovation, the SUBWAY (C)
+
+
+-------sandwich intro
+Roast Beef
+This tasty number, with less than 6g of fat, is piled high with lean roast beef and your choice of fresh veggies, like crisp green peppers and juicy tomatoes.
+
+Nutrition information
+Default nutritional values are based on the standard 6" sub recipe.
+
+SERVING SIZE (g)233
+CALORIES320
+	Calories from fat40
+
+TOTAL FAT (g)5
+	Saturated Fat (g)1.5
+	Trans Fat* (g)0
+
+CHOLESTEROL (mg)45
+SODIUM (mg)660
+CARBOHYDRATES (g)45
+	Dietary Fiber (g)5
+	Sugars (g)7
+PROTEIN (g)25
+VITAMIN A % DV8
+VITAMIN C % DV20
+CALCIUM % DV30
+IRON % DV25
+
+
+
+
+
+
+
+
+
+---------footer
+SUBWAY¢ç is a Registered Trademark of Subway IP Inc.
+¨Ï 2017 Subway IP Inc.
+All Rights Reserved.
+
+
+
+About Subway
+
+SUBWAY is an international chain with over 40,000 restaurants in over 100 countries. Stjarnan Ltd. runs 23 SUBWAY restaurants all over Iceland.
+
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+font-family: 'Open Sans', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
